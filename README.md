@@ -1,2 +1,2 @@
 # proyectoRevista
-this is the link address to the web site of this project: https://pepejsc.github.io/proyectoRevista/
+<p>Take a look at this project's website: <a href="https://pepejsc.github.io/proyectoRevista/"></a></p>
